@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<flies>
+    <fly id="1">
+        <from>Tbilisi</from>
+        <to>Stockholm</to>
+    </fly>
+    <fly id="2">
+        <from>Lisbon</from>
+        <to>Budapest</to>
+    </fly>
+</flies>
